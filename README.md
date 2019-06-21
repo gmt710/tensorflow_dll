@@ -11,10 +11,10 @@
 >msys2-x86_64-20190524                    
 
 ## dll lib include
-[tensorflow dll lib include](https://pan.baidu.com/s/1oEVioQHMHOiC3oHKivlLmA#list/path=%2F)提取码：0ugf                   
+[tensorflow dll lib include](https://pan.baidu.com/s/1oEVioQHMHOiC3oHKivlLmA#list/path=%2F) password：0ugf                   
 
 ## reference      
-[1][windows+bazel+tensorflow-v1.12.0(GPU)编译生成dll与lib](https://blog.csdn.net/qq_35975447/article/details/91986142)           
+[1][windows+bazel+tensorflow-v1.12.0(GPU) build dll and lib](https://blog.csdn.net/qq_35975447/article/details/91986142)       
 [2][tensorflow-windows-build-script](https://github.com/guikarist/tensorflow-windows-build-script)                 
 [3][windows cmake tensorflow](https://blog.csdn.net/qq_35975447/article/details/91986142)      
            
